@@ -1,0 +1,50 @@
+1 | Nguyen Hoang | 2005-02-01 | Quang Tri | 4.0
+2|Nguyen Van B|2004-06-15|456 Le Lai|3.2
+3|Tran Van C|2003-11-22|789 Tran Hung Dao|3.8
+4|Le Van D|2002-03-09|321 Le Loi|2.9
+5|Phan Van E|2000-08-30|654 Quang Trung|3.0
+6|Nguyen Thi A|2005-02-20|147 Hoa Lu|3.6
+7|Nguyen Thi B|2004-05-12|258 Nguyen Hue|3.1
+8|Tran Thi C|2003-07-25|369 Vo Thi Sau|3.9
+9|Le Thi D|2002-04-18|753 Le Duan|2.5
+10|Phan Thi E|2000-09-05|852 Nguyen Thi Minh Khai|3.4
+11|Nguyen Van F|2004-10-14|111 Tran Phu|3.2
+12|Nguyen Van G|2003-01-01|222 Le Van Sy|2.8
+13|Tran Van H|2002-12-30|333 Nguyen Van Cu|3.0
+14|Le Van I|2005-04-11|444 Tran Nhat Duat|3.7
+15|Phan Van J|2000-08-15|555 Nguyen Khuyen|3.1
+16|Nguyen Thi F|2004-11-23|666 Nguyen Thi Hong|3.8
+17|Nguyen Thi G|2003-06-17|777 Le Thi Ngan|3.4
+18|Tran Thi H|2002-02-28|888 Hoang Thi Lan|2.9
+19|Le Thi I|2005-03-08|999 Tran Thi Diem|3.3
+20|Phan Thi J|2004-07-21|101 Nguyen Thi Mai|3.5
+21|Nguyen Van K|2005-01-15|111 Nguyen Trai|3.6
+22|Nguyen Van L|2004-10-24|222 Le Lai|3.2
+23|Tran Van M|2003-03-12|333 Tran Hung Dao|3.1
+24|Le Van N|2002-08-19|444 Le Loi|3.9
+25|Phan Van O|2000-07-07|555 Quang Trung|2.8
+26|Nguyen Thi K|2005-01-21|147 Hoa Lu|3.6
+27|Nguyen Thi L|2004-09-30|258 Nguyen Hue|3.2
+28|Tran Thi M|2003-02-05|369 Vo Thi Sau|3.5
+29|Le Thi N|2002-04-17|753 Le Duan|3.0
+30|Phan Thi O|2000-08-12|852 Nguyen Thi Minh Khai|3.4
+31|Nguyen Van P|2005-01-26|111 Tran Phu|3.6
+32|Nguyen Van Q|2004-05-02|222 Le Van Sy|2.9
+33|Tran Van R|2003-12-20|333 Nguyen Van Cu|3.8
+34|Le Van S|2002-06-04|444 Tran Nhat Duat|3.1
+35|Phan Van T|2000-09-14|555 Nguyen Khuyen|3.3
+36|Nguyen Thi P|2004-11-11|666 Nguyen Thi Hong|3.7
+37|Nguyen Thi Q|2003-03-26|777 Le Thi Ngan|3.5
+38|Tran Thi R|2002-12-03|888 Hoang Thi Lan|2.6
+39|Le Thi S|2005-02-10|999 Tran Thi Diem|3.9
+40|Phan Thi T|2004-04-22|101 Nguyen Thi Mai|3.2
+41|Nguyen Van U|2005-05-06|201 Tran Phu|3.8
+42|Nguyen Van V|2004-11-16|302 Le Lai|3.1
+43|Tran Van W|2003-09-29|403 Tran Hung Dao|3.9
+44|Le Van X|2005-10-12|504 Le Loi|2.8
+45|Phan Van Y|2004-01-05|605 Quang Trung|3.6
+46|Nguyen Thi U|2005-03-15|706 Hoa Lu|3.5
+47|Nguyen Thi V|2004-07-23|807 Nguyen Hue|3.2
+48|Tran Thi W|2005-02-19|908 Vo Thi Sau|3.3
+49|Le Thi X|2005-08-30|109 Le Duan|3.4
+50|Phan Thi Y|2004-12-09|210 Nguyen Thi Minh Khai|2.7
